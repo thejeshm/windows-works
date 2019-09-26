@@ -1,3 +1,4 @@
+//this is a java project
 $(document).ready(function(){
 $(".open").on("click", function(){
 //$(".popup-content").hide();
