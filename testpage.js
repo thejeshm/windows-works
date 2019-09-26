@@ -1,4 +1,4 @@
-
+// it is fixed
 //this is a java code
 $(document).ready(function(){
 $(".open").on("click", function(){
