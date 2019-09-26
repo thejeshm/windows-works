@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 //this is a java project
+=======
+// it is fixed
+//this is a java code
+>>>>>>> windows-test
 $(document).ready(function(){
 $(".open").on("click", function(){
 //$(".popup-content").hide();
