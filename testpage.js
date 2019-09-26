@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 //this is a java project
 =======
+// this is in Main
 // it is fixed
 //this is a java code
 >>>>>>> windows-test
